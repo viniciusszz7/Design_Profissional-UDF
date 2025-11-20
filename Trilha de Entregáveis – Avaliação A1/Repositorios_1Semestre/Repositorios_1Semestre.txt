@@ -1,13 +1,14 @@
 # 📂 Projetos
 
 ## 🗄️ Banco de Dados
-[Repositório no GitHub](https://github.com/viniciusszz7/projeto-banco-de-dados)
+(https://github.com/viniciusszz7/projeto-banco-de-dados)
 
 ## 🎨 Design Profissional
-[Repositório no GitHub](https://github.com/viniciusszz7/Design_Profissional-UDF)
+(https://github.com/viniciusszz7/Design_Profissional-UDF)
 
 ## 🌐 Front End / Back End
-[Repositório no GitHub](https://github.com/viniciusszz7/Projeto-Final-Desenvolvimento-Web-Front-End)
+(https://github.com/viniciusszz7/Projeto-Final-Desenvolvimento-Web-Front-End)
 
 ## 💡 Pensamento Computacional
-[Repositório no GitHub](https://github.com/viniciusszz7/projeto_C)
+(https://github.com/viniciusszz7/projeto_C)
+
