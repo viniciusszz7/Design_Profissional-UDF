@@ -1,14 +1,15 @@
-# 📂 Projetos
+📂 Projetos
 
-## 🗄️ Banco de Dados
+🗄️ Banco de Dados
 (https://github.com/viniciusszz7/projeto-banco-de-dados)
 
-## 🎨 Design Profissional
+🎨 Design Profissional
 (https://github.com/viniciusszz7/Design_Profissional-UDF)
 
-## 🌐 Front End / Back End
+🌐 Front End / Back End
 (https://github.com/viniciusszz7/Projeto-Final-Desenvolvimento-Web-Front-End)
 
-## 💡 Pensamento Computacional
+💡 Pensamento Computacional
 (https://github.com/viniciusszz7/projeto_C)
+
 
